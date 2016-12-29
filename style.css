@@ -1,11 +1,11 @@
 .table {
-	border-radius: 5px;
+    border-radius: 5px;
     width: 50%;
     margin: 0px auto;
     float: none;
-	text-align: center;
+    text-align: center;
 }
 
 table th {
-	text-align: center;
+    text-align: center;
 } 
